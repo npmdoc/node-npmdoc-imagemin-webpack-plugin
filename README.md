@@ -1,4 +1,7 @@
-# api documentation for  [imagemin-webpack-plugin (v1.4.4)](https://github.com/Klathmon/imagemin-webpack-plugin#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-imagemin-webpack-plugin.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-imagemin-webpack-plugin) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-imagemin-webpack-plugin.svg)](https://travis-ci.org/npmdoc/node-npmdoc-imagemin-webpack-plugin)
+# npmdoc-imagemin-webpack-plugin
+
+#### basic api documentation for  [imagemin-webpack-plugin (v1.4.4)](https://github.com/Klathmon/imagemin-webpack-plugin#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-imagemin-webpack-plugin.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-imagemin-webpack-plugin) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-imagemin-webpack-plugin.svg)](https://travis-ci.org/npmdoc/node-npmdoc-imagemin-webpack-plugin)
+
 #### Webpack plugin to compress images
 
 [![NPM](https://nodei.co/npm/imagemin-webpack-plugin.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/imagemin-webpack-plugin)
@@ -98,7 +101,8 @@
         "test": "gulp test"
     },
     "standard": {},
-    "version": "1.4.4"
+    "version": "1.4.4",
+    "bin": {}
 }
 ```
 
